@@ -5,6 +5,6 @@ def duckduckgoose (gente, posicion):
     return oca, posicion
 
 oca = duckduckgoose (['María', 'Alicia', 'Blanca', 'Celia','Espe'], 4)[0]
-posicion = duckduckgoose (['María', 'Alicia', 'Blanca', 'Celia','Espe'], 4)[1]
+posicion = duckduckgoose (['María', 'Alicia', 'Blanca', 'Celia','Ainhoa','Lucía'], 4)[1]
 
 print ('La oca es: ', oca, 'y su posición es: ', posicion)
